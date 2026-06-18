@@ -35,7 +35,7 @@ safe under concurrency and idempotent by design.
 ## 2. Run it
 
 ### Prerequisites
-- JDK 21, Maven 3.9+
+- JDK 17, Maven 3.9+
 
 ### Start the database
 ```
