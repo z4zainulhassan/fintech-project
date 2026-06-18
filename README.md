@@ -1,7 +1,7 @@
 # VRTX Ledger System
 
 A double-entry, append-only ledger backend for a fintech-style payment system, built with
-**Java 21 + Spring Boot 3.3 + PostgreSQL**. Every money movement is recorded as balanced
+**Java 17 + Spring Boot 3.3 + PostgreSQL**. Every money movement is recorded as balanced
 debit/credit entries; balances are derived from the ledger, never stored; and the system is
 safe under concurrency and idempotent by design.
 
